@@ -1,0 +1,11 @@
+--require ts-node/register
+--require ./mocha.conf.js
+--colors
+--reporter spec
+--ui bdd
+--full-trace
+--bail
+--timeout 10000
+--recursive
+--exit
+./tests/**/*.spec.js
