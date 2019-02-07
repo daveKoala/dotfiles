@@ -1,0 +1,17 @@
+# Packages / Libraries
+node_modules/
+
+# Env settings
+.env
+.env.production
+.env.development
+.env.test
+
+# OSX files
+.DS_Store
+
+# .zip files
+*.zip
+
+# Instanbul
+.nyc_output
